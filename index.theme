@@ -1,0 +1,19 @@
+[Icon Theme]
+Name=Wonderbrushed
+Comment=Wonderbrushed icon theme for GNU/Linux by Bhavneeth
+Inherits=oxygen,gnome,hicolor,breeze
+Directories=Theme/places,Theme/apps
+
+[Theme/apps]
+Size=512
+Context=Applications
+Type=Scalable
+MinSize=1
+MaxSize=512
+
+[Theme/places]
+Size=512
+Context=Places
+Type=Scalable
+MinSize=1
+MaxSize=512
