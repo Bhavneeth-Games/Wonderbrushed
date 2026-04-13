@@ -1,0 +1,42 @@
+[Icon Theme]
+Name=Wonderbrushed
+Comment=Wonderbrushed icon theme for GNU/Linux by Bhavneeth
+Inherits=oxygen,gnome,hicolor,breeze
+
+Example=folder
+
+FollowsColorScheme=true
+
+# KDE Specific Stuff
+DisplayDepth=32
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+ZipOverlay=zip_overlay
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=48
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+
+Directories=Places/128x128,Applications/128x128
+
+[Applications/128x128]
+Size=128
+Context=Applications
+Type=Scalable
+MinSize=1
+MaxSize=256
+
+[Places/128x128]
+Size=128
+Context=Places
+Type=Scalable
+MinSize=1
+MaxSize=256
