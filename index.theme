@@ -1,0 +1,41 @@
+[Icon Theme]
+Name=Wonderbrushed
+Comment=Hand-drawn watercolor icons by Bhavneeth
+Inherits=breeze-dark,hicolor
+Example=folder
+
+DisplayDepth=32
+FollowsColorScheme=true
+
+Directories=Applications,Places
+
+[Applications]
+Size=128
+Context=Applications
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[Places]
+Size=128
+Context=Places
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+# Add 'Status' and 'Devices' to the Directories line
+Directories=Applications,Places,Status,Devices
+
+[Status]
+Size=22
+Context=Status
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[Devices]
+Size=22
+Context=Devices
+Type=Scalable
+MinSize=16
+MaxSize=512
