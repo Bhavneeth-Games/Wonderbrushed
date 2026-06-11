@@ -1,4 +1,7 @@
-Woderbrushed README
+### **Wonderbrushed README**
+
+<img width="3840" height="2160" alt="Untitled design" src="https://github.com/user-attachments/assets/cf0bd5d3-be41-42e2-877c-593dc61bb71d" />
+
 
 Wonderbrushed is a CC BY SA 4.0 licensed KDE icon pack aimed at making the desktop a less boring and sterile place with chalky icons that look almost edible.
 
