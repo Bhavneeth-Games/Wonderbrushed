@@ -1,0 +1,6 @@
+Project Lead
+-Bhavneeth (Exciting_North) - Creator, Artist
+
+Technical Help
+-Crylion (Patrick Rathmann) - Created index.theme
+-theoneand33 - Fixed Read-me Instruction Path
