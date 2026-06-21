@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Wonderbrushed 0.4
+Name=Wonderbrushed 0.4.1
 Comment=Hand-drawn watercolor icons by Bhavneeth
 Inherits=breeze-dark,hicolor
 Example=folder
@@ -7,33 +7,45 @@ Example=folder
 DisplayDepth=32
 FollowsColorScheme=true
 
-Directories=Applications,Places
+# All active directories declared in lowercase
+Directories=apps,places,categories,mimetypes,status,devices
 
-[Applications]
+[apps]
 Size=128
 Context=Applications
 Type=Scalable
 MinSize=16
 MaxSize=512
 
-[Places]
+[places]
 Size=128
 Context=Places
 Type=Scalable
 MinSize=16
 MaxSize=512
 
-# Add 'Status' and 'Devices' to the Directories line
-Directories=Applications,Places,Status,Devices
+[categories]
+Size=128
+Context=Categories
+Type=Scalable
+MinSize=16
+MaxSize=512
 
-[Status]
+[mimetypes]
+Size=128
+Context=Mimetypes
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[status]
 Size=22
 Context=Status
 Type=Scalable
 MinSize=16
 MaxSize=512
 
-[Devices]
+[devices]
 Size=22
 Context=Devices
 Type=Scalable
