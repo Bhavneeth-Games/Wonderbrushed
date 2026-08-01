@@ -9,5 +9,4 @@ assignees: ''
 
 **App name**: 
 
-
 <!-- Before creating the issue, check if the icon has already been suggested. If it has, interact with the corresponding issue to bump it -->
