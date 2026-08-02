@@ -19,3 +19,5 @@ If some icons don't work, open KMenuEdit (also known as Menu Editor), find the a
 
 ### Now here is the pack in action!
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25238858-7e95-4be9-b4b6-155963e634fa" />
+
+Also, here is where I get my wallpapers from: berrysoup.ca
