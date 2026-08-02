@@ -4,6 +4,7 @@ Project Lead
 Technical Help
 -Crylion (Patrick Rathmann) - Created index.theme
 -theoneand33 - Fixed Read-me Instruction Path
+-Marks20125 - Icon Requests Template
 
 Discord
 -Marks - Moderator
