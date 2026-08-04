@@ -6,10 +6,10 @@ Wonderbrushed is a CC BY SA 4.0 licensed KDE icon pack aimed at making the deskt
 
 Links:
 
-Progress Document: https://docs.google.com/document/d/11cmucEKU10CzprAu6dus4nY0vg-uqqjmq4IfRNkrbcI/edit?tab=t.0
-Recommendations Document: https://docs.google.com/document/d/1pJRVsGnD2A6piIGx1AuWMM9Hve0UDZa99HjVQXT3BQU/edit?tab=t.0
-GitHub: https://github.com/Bhavneeth-Games
-Discord: https://discord.gg/ERAJg22Bdq
+- Progress Document: https://docs.google.com/document/d/11cmucEKU10CzprAu6dus4nY0vg-uqqjmq4IfRNkrbcI/edit?tab=t.0
+- Recommendations Document(Retiring Soon, please use the GitHub Issues Template instead): https://docs.google.com/document/d/1pJRVsGnD2A6piIGx1AuWMM9Hve0UDZa99HjVQXT3BQU/edit?tab=t.0
+- GitHub: https://github.com/Bhavneeth-Games
+- Discord: https://discord.gg/ERAJg22Bdq
 
 Installation instructions:
 
