@@ -1,8 +1,8 @@
 ---
-name: Icon
-about: Suggest an icon
+name: Files & System
+about: Suggest an icon (files & system)
 title: "[ICON] Name"
-labels: Icon
+labels: Files & System
 assignees: ''
 
 ---
