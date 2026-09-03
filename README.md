@@ -1,4 +1,4 @@
-### **Wonderbrushed README**
+# **Wonderbrushed README**
 
 <img width="1920" height="1080" alt="Wonderbrushed 0 45 beta 1 thumbnail" src="https://github.com/user-attachments/assets/d39fd946-7f87-4a86-8df1-e289239e247e" />
 
@@ -21,3 +21,11 @@ If some icons don't work, open KMenuEdit (also known as Menu Editor), find the a
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25238858-7e95-4be9-b4b6-155963e634fa" />
 
 Also, here is where I get my wallpapers from: berrysoup.ca
+
+### **The Versioning System**
+
+Wonderbrushed uses a more unconventional versioning system compared to the industry standard; Semantic Versioning (SemVer) due to it's nature, being a mainly image based project rather than being code based. It works like so:
+
+- Major releases (ones that flesh out new categories) use 0.x
+- Community releases (ones that add community requested icons) use 0.x5
+- Beta releases don't mean unstable, they mean that the full icon set for the update isn't done yet.

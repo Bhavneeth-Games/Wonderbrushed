@@ -1,10 +1,12 @@
-Project Lead
--Bhavneeth (Exciting_North) - Creator, Artist
+# Credits
 
-Technical Help
--Crylion (Patrick Rathmann) - Created index.theme
--theoneand33 - Fixed Read-me Instruction Path
--Marks20125 - Icon Requests Template
+## Project Lead
+- Bhavneeth (Exciting_North) — Creator, Artist
 
-Discord
--Marks - Moderator
+## Contributors
+- Crylion (Patrick Rathmann) — Created index.theme
+- theoneand33 — Fixed README installation path
+- Marks20125 — Created icon request template
+
+## Discord
+- Marks — Moderator
